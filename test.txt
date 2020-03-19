@@ -1,3 +1,0 @@
-THIS IS A TEST  --Net_2
-2. test   --Net_2
-THIRD test   --Net_2
